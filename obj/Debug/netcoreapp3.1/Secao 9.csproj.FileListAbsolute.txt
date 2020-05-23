@@ -1,0 +1,13 @@
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\bin\Debug\netcoreapp3.1\Secao 9.exe
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\bin\Debug\netcoreapp3.1\Secao 9.deps.json
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\bin\Debug\netcoreapp3.1\Secao 9.runtimeconfig.json
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\bin\Debug\netcoreapp3.1\Secao 9.runtimeconfig.dev.json
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\bin\Debug\netcoreapp3.1\Secao 9.dll
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\bin\Debug\netcoreapp3.1\Secao 9.pdb
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\obj\Debug\netcoreapp3.1\Secao 9.csprojAssemblyReference.cache
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\obj\Debug\netcoreapp3.1\Secao 9.csproj.CoreCompileInputs.cache
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\obj\Debug\netcoreapp3.1\Secao 9.AssemblyInfoInputs.cache
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\obj\Debug\netcoreapp3.1\Secao 9.AssemblyInfo.cs
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\obj\Debug\netcoreapp3.1\Secao 9.dll
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\obj\Debug\netcoreapp3.1\Secao 9.pdb
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\obj\Debug\netcoreapp3.1\Secao 9.genruntimeconfig.cache

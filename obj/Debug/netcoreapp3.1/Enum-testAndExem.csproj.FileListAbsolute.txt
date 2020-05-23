@@ -1,0 +1,12 @@
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\bin\Debug\netcoreapp3.1\Enum-testAndExem.exe
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\bin\Debug\netcoreapp3.1\Enum-testAndExem.deps.json
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\bin\Debug\netcoreapp3.1\Enum-testAndExem.runtimeconfig.json
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\bin\Debug\netcoreapp3.1\Enum-testAndExem.runtimeconfig.dev.json
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\bin\Debug\netcoreapp3.1\Enum-testAndExem.dll
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\bin\Debug\netcoreapp3.1\Enum-testAndExem.pdb
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\obj\Debug\netcoreapp3.1\Enum-testAndExem.csproj.CoreCompileInputs.cache
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\obj\Debug\netcoreapp3.1\Enum-testAndExem.AssemblyInfoInputs.cache
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\obj\Debug\netcoreapp3.1\Enum-testAndExem.AssemblyInfo.cs
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\obj\Debug\netcoreapp3.1\Enum-testAndExem.dll
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\obj\Debug\netcoreapp3.1\Enum-testAndExem.pdb
+D:\Users\luann\Desktop\PastasHD\Estudo\Udemy\Curso mais didático e completo de C# e OO\Testes de Aulas - Udemy\Secao 9\Secao 9\obj\Debug\netcoreapp3.1\Enum-testAndExem.genruntimeconfig.cache
